@@ -1,0 +1,13 @@
+Cores
+
+red: #fe7867
+yellow: #fad400
+gray: #a7abae
+white: #ffffff
+graphic-text: #25564b
+photography-text: #19536b
+footer: #458c7e
+
+Font
+Barlow
+Fraunces
